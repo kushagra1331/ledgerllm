@@ -1,5 +1,14 @@
 pandas
 numpy
 langchain
+langchain_core
 flask
+streamlit
+openpyxl
+openai
+python-dotenv
+langchain_openai
+langchain_experimental
+langchain-community
+tabulate
 -e .
