@@ -1,5 +1,5 @@
-# LLM application to analyge general ledger data
-LedgerSmart is a RAG app based on OpenAI LLM using Pandas AI to interact and visaulize ledger data. This application is piblished on streamlit for demo purposes. This app shows how using Pandas AI we can leverage Already existing dataframes in our system. We can give prompts to our local data in CHAT-GPT style and the application give you the required result by converting the Natural language to Pandas Code.
+# LedgerSmart LLM application to analyge general ledger data
+LedgerSmart is a RAG app based on OpenAI LLM using Pandas AI to interact and visaulize ledger data. This application is piblished on streamlit for demo purposes. This app shows how using Pandas AI we can leverage Already existing pandas dataframes in our system. We can give prompts to our local data in CHAT-GPT style and the application give you the required result by converting the Natural language to Pandas Code.
 
 
 ## Uses
